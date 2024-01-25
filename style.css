@@ -1,0 +1,21 @@
+body {
+    background-image: url(./assets/artwork.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin: 0; /* Remove a margem padrão do corpo */
+    height: 100vh; /* Define a altura para ocupar 100% da altura da tela */
+}
+
+  
+.logo {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .logo h1 {
+    font-size: 50px;
+    font-family: 'Exo', sans-serif;
+  }
